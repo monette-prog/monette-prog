@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kyle Monette Sarmiento ]
+# 👋 Hi, I'm Kyle Monette Sarmiento 
 
 🎓 BSIT Student | 🌐 Beginner Web Developer | ✨ Exploring HTML, CSS & JavaScript  
 
