@@ -14,19 +14,17 @@
 
 ## 🛠️ Skills
 - Beginner in:
+  - 💻 Python
   - 🌐 HTML  
   - 🎨 CSS  
-  - ⚡ JavaScript  
+  - ⚡ JavaScript
 
 ---
 
 ## 📂 Current Projects
-
+Beginner
 - 📝 GitHub Profile README
   *Building and improving my profile to document my learning journey.*
-
-- 🎨 CSS Styling Practice
-  *Experimenting with layouts, colors, and responsive design using CSS.*  
 
 ## 📫 Contact Me
 - 📧 Email: monettemenguito@gmail.com  
