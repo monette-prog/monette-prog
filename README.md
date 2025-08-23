@@ -22,8 +22,8 @@
 
 ## 📂 Current Projects
 
-- 🌐 Personal Portfolio Website  
-  *A simple website using HTML & CSS to showcase my bio, skills, and projects.*  
+- 📝 GitHub Profile README
+  *Building and improving my profile to document my learning journey.*
 
 - 🎨 CSS Styling Practice
   *Experimenting with layouts, colors, and responsive design using CSS.*  
