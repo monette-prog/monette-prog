@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+- 💻 BSIT Student at Laguna State Polytechnic University 
 - 🔭 I’m a **beginner web developer** passionate about creating and designing websites  
 - 🌱 Currently exploring **HTML, CSS, and JavaScript**  
 - 🎯 My goal is to improve my front-end development skills and build creative projects  
@@ -19,9 +20,23 @@
 
 ---
 
+## 📂 Current Projects
+
+- 🌐 Personal Portfolio Website  
+  *A simple website using HTML & CSS to showcase my bio, skills, and projects.*  
+
+- 🎨 CSS Styling Practice
+  *Experimenting with layouts, colors, and responsive design using CSS.*  
+
+- ⚡ JavaScript Mini Projects  
+  *Building small projects like a calculator, to-do list, and digital clock.*  
+
+- 📖 Learning Journal 
+  *Documenting my journey as a BSIT student and beginner web developer.*
+
 ## 📫 Contact Me
-- 📧 Email: [monettemenguito@gmail.com]  
-- 💼 LinkedIn: [Kyle Monette Sarmiento]  
+- 📧 Email: monettemenguito@gmail.com  
+- 💼 LinkedIn: Kyle Monette Sarmiento  
 
 ---
 
