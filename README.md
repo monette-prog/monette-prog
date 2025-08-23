@@ -28,12 +28,6 @@
 - 🎨 CSS Styling Practice
   *Experimenting with layouts, colors, and responsive design using CSS.*  
 
-- ⚡ JavaScript Mini Projects  
-  *Building small projects like a calculator, to-do list, and digital clock.*  
-
-- 📖 Learning Journal 
-  *Documenting my journey as a BSIT student and beginner web developer.*
-
 ## 📫 Contact Me
 - 📧 Email: monettemenguito@gmail.com  
 - 💼 LinkedIn: Kyle Monette Sarmiento  
