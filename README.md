@@ -15,6 +15,7 @@
 ## 🛠️ Skills
 - Beginner in:
   - 💻 Python
+  - #️⃣ C#
   - 🌐 HTML  
   - 🎨 CSS  
   - ⚡ JavaScript
